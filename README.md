@@ -30,9 +30,9 @@ It returns an array that looks like this:
 ```
 
 ### TODO
-- Write unit tests
 - Handle file permission errors
 - An async version could be useful for other use cases than I had in mind initially
+- Write more tests
 
 ### License
 MIT license
