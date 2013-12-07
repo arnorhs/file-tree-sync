@@ -1,0 +1,31 @@
+{
+  "name": "file-tree-sync",
+  "version": "0.0.0",
+  "description": "A function that iterates recursively through a directory structure and returns it as a normal array. Supports glob syntax to ignore files if needed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "dir",
+    "directory",
+    "tree",
+    "structure",
+    "sync"
+  ],
+  "author": "Arnor Heidar Sigurdsson <arnorhs@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "minimatch": "~0.2.12"
+  },
+  "devDependencies": {
+    "mocha": "~1.15.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/arnorhs/file-tree-sync.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arnorhs/file-tree-sync/issues"
+  }
+}
